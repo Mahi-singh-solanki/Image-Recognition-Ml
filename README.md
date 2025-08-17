@@ -9,10 +9,6 @@ How to Run
 Open in Colab:
 Open In Colab
 
-Clone and run locally:
-
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
 
 # Open the notebook in Jupyter or Colab
 Key Features
